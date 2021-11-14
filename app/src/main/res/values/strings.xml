@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adaptive Lights</string>
+    <string name="desc">Adaptive lights changes the smart bulb light color to match the color of the album art of the music that is being currently played.</string>
+</resources>
